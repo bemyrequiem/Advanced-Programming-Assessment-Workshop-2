@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\user\OneDrive\Uni Assignments\Year 2\AdvancedProgramming\Workshop Assessments\WS2\Task\shape.cpp(55,29): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\OneDrive\Uni Assignments\Year 2\AdvancedProgramming\Workshop Assessments\WS2\Task\shape.cpp(65,18): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  shape.cpp
+C:\Users\user\OneDrive\Uni Assignments\Year 2\AdvancedProgramming\Workshop Assessments\WS2\Task\shape.cpp(55,29): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\OneDrive\Uni Assignments\Year 2\AdvancedProgramming\Workshop Assessments\WS2\Task\shape.cpp(65,18): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Task.vcxproj -> C:\Users\user\OneDrive\Uni Assignments\Year 2\AdvancedProgramming\Workshop Assessments\WS2\Task\Debug\Task.exe
